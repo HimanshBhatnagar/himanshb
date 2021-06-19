@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himansh
 - 👀 I’m interested in many languages and libraries like Java, Python, Rust, Spring boot and React etc.
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on my personeal social media project: 'seamos-amigos' based on Java and Spring boot.
+- 💞️ I’m looking to collaborate on my social media project: 'seamos-amigos' based on Java and Spring boot.
 - 📫 How to reach me : via email or dm me any time.
 
 <!---
